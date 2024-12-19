@@ -1,0 +1,37 @@
+body {
+    background-color: #47cece;
+    justify-content: center;
+    align-items: center;
+    height: 20em;
+    margin: 0 0.8rem;
+}
+.container{
+    background-color: white;
+    height: auto;
+    width: auto;
+    text-align: center;
+}
+.botonrojo{
+    background-color: #ff4d4d;
+    border-color: #ff4d4d;
+    color: white;
+}
+.botonrojo:hover {
+    background-color: #ff3333;
+    border-color: #ff3333;
+}
+.botonverde {
+    background-color: #33cc99;
+    border-color: #33cc99;
+    color: white;
+}
+.botonverde:hover {
+    background-color: #29a87c;
+    border-color: #29a87c;
+}
+input {
+    width: 3em;
+    text-align: center;
+    font-weight: bold;
+    font-size: 1.5rem;
+}
